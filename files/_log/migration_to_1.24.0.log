@@ -1,0 +1,74 @@
+2026-05-10 21:27:37 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Installing glpi_plugin_fields_containers"
+2026-05-10 21:27:37 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Installing glpi_plugin_fields_containerdisplayconditions"
+2026-05-10 21:27:37 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Installing glpi_plugin_fields_fields"
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+1 segundo for "Updating glpi_plugin_fields_fields"
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Installing glpi_plugin_fields_labeltranslations"
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Installing glpi_plugin_fields_profiles"
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_fields
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_labeltranslations
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+Valores de configuración agregados para stable_search_options (plugin:fields).
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+Actualización a la versión 1.24.0 completada.
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Installing glpi_plugin_fields_statusoverrides"
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+Actualización a la versión 1.24.0 completada.
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Regenerar archivos de contenedores"
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+Actualización a la versión 1.24.0 completada.
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Actualización del contenedor de archivos generados"
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+Actualización a la versión 1.24.0 completada.
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Updating glpi_plugin_fields_fields"
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_ticketcontroldeactivos
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_ticketcontroldeactivos
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_ticketcontroldeactivos
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_ticketcontroldeactivos
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_ticketcontroldeenvios
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_ticketcontroldeenvios
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_ticketcontroldeenvios
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_ticketareasinternas
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_ticketareasinternas
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_ticketareasinternas
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_ticketareasinternas
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_fields
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Cambió el esquema de la base de datos - glpi_plugin_fields_labeltranslations
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Actualización a la versión 1.24.0 completada.
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Corregir los nombres de los campos"
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Actualización a la versión 1.24.0 completada.
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Regenerar archivos de contenedores"
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Actualización a la versión 1.24.0 completada.
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+0 segundos for "Actualización del contenedor de archivos generados"
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+Actualización a la versión 1.24.0 completada.

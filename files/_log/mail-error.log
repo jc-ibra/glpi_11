@@ -1,0 +1,12 @@
+2026-05-12 07:46:53 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+Connection could not be established with host "mail.smtp2go.com:2525": stream_socket_client(): Unable to connect to mail.smtp2go.com:2525 (Connection timed out)
+2026-05-12 07:48:06 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+Connection could not be established with host "mail.smtp2go.com:2525": stream_socket_client(): Unable to connect to mail.smtp2go.com:2525 (Connection timed out)
+2026-05-12 07:49:32 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+Connection could not be established with host "mail.smtp2go.com:8025": stream_socket_client(): Unable to connect to mail.smtp2go.com:8025 (Connection timed out)
+2026-05-12 07:49:58 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+Connection could not be established with host "mail.smtp2go.com:587": stream_socket_client(): Unable to connect to mail.smtp2go.com:587 (Connection timed out)
+2026-05-16 07:53:25 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+Connection to "mail.smtp2go.com:80" timed out.
+2026-05-16 07:53:25 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+¡Advertencia!: correo electrónico no enviado a jperez@trantortechnologies.mx, quedan 5 intentos restantes. Mensaje: [GLPI #0000008] Nuevo usuario en asignación test, Error: Connection to "mail.smtp2go.com:80" timed out.

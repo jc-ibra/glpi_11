@@ -1,0 +1,65 @@
+2026-07-17 20:10:35 [@Carloss-Mac-mini.local]
+CSRF check failed for User ID:  at /glpi_11/public/front/login.php
+[2026-07-17 20:10:35] User ID: `Anonymous` tried to execute an invalid request on `/front/login.php`.
+
+  Backtrace :
+  ./src/Session.php:1817                             
+  ...ner/ControllerListener/CheckCsrfListener.php:89 Session::checkCSRF()
+  ...ymfony/event-dispatcher/EventDispatcher.php:260 Glpi\Kernel\Listener\ControllerListener\CheckCsrfListener->onKernelController()
+  ...ymfony/event-dispatcher/EventDispatcher.php:220 Symfony\Component\EventDispatcher\EventDispatcher::Symfony\Component\EventDispatcher\{closure}()
+  ...symfony/event-dispatcher/EventDispatcher.php:56 Symfony\Component\EventDispatcher\EventDispatcher->callListeners()
+  ./vendor/symfony/http-kernel/HttpKernel.php:169    Symfony\Component\EventDispatcher\EventDispatcher->dispatch()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+2026-07-17 20:10:41 [@Carloss-Mac-mini.local]
+CSRF check failed for User ID:  at /glpi_11/public/front/login.php
+[2026-07-17 20:10:41] User ID: `Anonymous` tried to execute an invalid request on `/front/login.php`.
+
+  Backtrace :
+  ./src/Session.php:1817                             
+  ...ner/ControllerListener/CheckCsrfListener.php:89 Session::checkCSRF()
+  ...ymfony/event-dispatcher/EventDispatcher.php:260 Glpi\Kernel\Listener\ControllerListener\CheckCsrfListener->onKernelController()
+  ...ymfony/event-dispatcher/EventDispatcher.php:220 Symfony\Component\EventDispatcher\EventDispatcher::Symfony\Component\EventDispatcher\{closure}()
+  ...symfony/event-dispatcher/EventDispatcher.php:56 Symfony\Component\EventDispatcher\EventDispatcher->callListeners()
+  ./vendor/symfony/http-kernel/HttpKernel.php:169    Symfony\Component\EventDispatcher\EventDispatcher->dispatch()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+[2026-08-02 05:48:15] User ID: `33` tried to execute an invalid request on `/front/user.php`.
+
+  Backtrace :
+  ./src/Glpi/Controller/GenericListController.php:71 
+  ./src/Glpi/Controller/GenericListController.php:49 Glpi\Controller\GenericListController->checkIsValidClass()
+  ./vendor/symfony/http-kernel/HttpKernel.php:181    Glpi\Controller\GenericListController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+[2026-08-19 23:32:09] User ID: `7` tried to execute an invalid request on `/front/ticket.form.php?id=2340`.
+  Additional information: Missing READ right. Cannot view the item.
+  Backtrace :
+  ./src/CommonDBTM.php:6537                          
+  ./front/ticket.form.php:252                        CommonDBTM::displayFullPageForItem()
+  ...Glpi/Controller/LegacyFileLoadController.php:64 require()
+  ./vendor/symfony/http-kernel/HttpKernel.php:181    Glpi\Controller\LegacyFileLoadController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+[2026-09-16 02:54:53] User ID: `7` tried to execute an invalid request on `/ajax/webhook.php`.
+
+  Backtrace :
+  ./ajax/webhook.php:137                             
+  ...Glpi/Controller/LegacyFileLoadController.php:64 require()
+  ./vendor/symfony/http-kernel/HttpKernel.php:181    Glpi\Controller\LegacyFileLoadController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+[2026-09-16 02:55:14] User ID: `7` tried to execute an invalid request on `/ajax/webhook.php`.
+
+  Backtrace :
+  ./ajax/webhook.php:137                             
+  ...Glpi/Controller/LegacyFileLoadController.php:64 require()
+  ./vendor/symfony/http-kernel/HttpKernel.php:181    Glpi\Controller\LegacyFileLoadController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()

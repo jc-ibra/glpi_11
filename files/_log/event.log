@@ -1,0 +1,530 @@
+2026-05-10 21:04:22 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: glpi inicia sesión desde la IP 189.139.241.108
+2026-05-10 21:27:38 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] [Plugin 4] 3: El complemento Fields ha sido instalado por glpi (2).
+2026-05-10 21:27:41 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] [Plugin 5] 3: El complemento Fields ha sido activado por glpi (2).
+2026-05-10 21:28:22 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: glpi inicia sesión desde la IP 189.139.241.108
+2026-05-11 06:00:10 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: glpi inicia sesión desde la IP 189.139.241.108
+2026-05-12 07:46:39 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] 3: glpi editó la configuración de notificaciones de correos electrónicos
+2026-05-12 07:47:51 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] 3: glpi editó la configuración de notificaciones de correos electrónicos
+2026-05-12 07:49:19 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] 3: glpi editó la configuración de notificaciones de correos electrónicos
+2026-05-12 07:49:45 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] 3: glpi editó la configuración de notificaciones de correos electrónicos
+2026-05-12 07:50:06 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] 3: glpi editó la configuración de notificaciones de correos electrónicos
+2026-05-12 07:57:44 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: juancarlos@staff.trantortechnologies.mx inicia sesión desde la IP 189.139.241.108
+2026-05-12 07:58:01 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: glpi inicia sesión desde la IP 189.139.241.108
+2026-05-12 08:02:26 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: juancarlos@staff.trantortechnologies.mx inicia sesión desde la IP 189.139.241.108
+2026-05-12 16:57:57 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: juancarlos@staff.trantortechnologies.mx inicia sesión desde la IP 189.139.241.108
+2026-05-16 12:33:57 [22@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: glpi inició la suplantación del usuario shernandez
+2026-05-16 12:34:18 [2@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: glpi finalizó la suplantación del usuario shernandez
+2026-05-16 12:34:58 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: glpi inició la suplantación del usuario compras
+2026-05-16 12:35:40 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez inicia sesión desde la IP 189.139.241.108
+2026-05-16 12:36:52 [16@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario gte.almacen
+2026-05-16 12:36:55 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario gte.almacen
+2026-05-16 12:37:05 [16@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario gte.almacen
+2026-05-16 12:37:30 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario gte.almacen
+2026-05-16 12:38:14 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-16 12:38:21 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-16 12:38:53 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-16 12:39:03 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-16 13:22:52 [22@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario shernandez
+2026-05-16 13:22:57 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario shernandez
+2026-05-16 13:24:00 [22@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario shernandez
+2026-05-16 13:24:20 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario shernandez
+2026-05-16 22:42:13 [22@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario shernandez
+2026-05-16 22:42:41 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario shernandez
+2026-05-16 22:46:09 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: shernandez inicia sesión desde la IP 189.139.241.108
+2026-05-16 22:48:49 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: shernandez inicia sesión desde la IP 189.139.241.108
+2026-05-16 22:49:52 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: shernandez inicia sesión desde la IP 189.139.241.108
+2026-05-16 22:50:13 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: shernandez inicia sesión desde la IP 189.139.241.108
+2026-05-16 22:52:20 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: shernandez inicia sesión desde la IP 189.139.241.108
+2026-05-16 22:54:52 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: shernandez inicia sesión desde la IP 189.139.241.108
+2026-05-16 22:57:37 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: shernandez inicia sesión desde la IP 189.139.241.108
+2026-05-16 23:01:02 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: shernandez inicia sesión desde la IP 189.139.241.108
+2026-05-16 23:09:09 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: shernandez inicia sesión desde la IP 189.139.241.108
+2026-05-17 05:18:42 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: juancarlos@staff.trantortechnologies.mx inicia sesión desde la IP 189.139.241.108
+2026-05-17 05:19:19 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: juancarlos@staff.trantortechnologies.mx inicia sesión desde la IP 189.139.241.108
+2026-05-17 05:22:39 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez@staff.trantortechnologies.mx inicia sesión desde la IP 189.139.241.108
+2026-05-19 06:25:14 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: glpi login from IP 189.139.241.108
+2026-05-19 06:25:30 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: Failed login for jperez from IP 189.139.241.108
+2026-05-19 06:25:45 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: glpi login from IP 189.139.241.108
+2026-05-19 06:25:55 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: Failed login for glpi from IP 189.139.241.108
+2026-05-19 06:26:14 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: Failed login for jperez from IP 189.139.241.108
+2026-05-19 06:27:00 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: Failed login for jperez from IP 189.139.241.108
+2026-05-19 06:27:25 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: glpi login from IP 189.139.241.108
+2026-05-19 06:28:40 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: glpi login from IP 189.139.241.108
+2026-05-19 06:36:58 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez login from IP 189.139.241.108
+2026-05-19 06:46:36 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez login from IP 189.139.241.108
+2026-05-19 06:48:27 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez login from IP 189.139.241.108
+2026-05-19 06:53:53 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 06:54:06 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:03:05 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:04:23 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:05:30 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:05:49 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:06:43 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:06:51 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:07:59 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:09:07 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:09:32 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:10:23 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:10:56 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:11:29 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:12:22 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:12:29 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:12:49 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:13:23 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:14:00 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:14:05 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:14:22 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:14:32 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:14:46 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:17:27 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:33:36 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:34:01 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 07:34:13 [15@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario compras
+2026-05-19 07:34:39 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario compras
+2026-05-19 20:47:43 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: Inicio de sesión fallido para  desde la IP 189.139.241.108
+2026-05-19 20:48:23 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez inicia sesión desde la IP 189.139.241.108
+2026-05-20 08:54:34 [32@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario agente4
+2026-05-20 08:58:25 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario agente4
+2026-05-20 09:03:21 [32@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario agente4
+2026-05-20 09:03:45 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario agente4
+2026-05-20 09:04:10 [32@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario agente4
+2026-05-20 09:05:09 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario agente4
+2026-05-20 09:07:14 [32@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario agente4
+2026-05-20 09:08:46 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario agente4
+2026-06-05 18:59:51 [31@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] 3: jperez editó la configuración de notificaciones de correos electrónicos
+2026-06-06 02:29:34 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: juancarlos@staff.trantortechnologies.mx inicia sesión desde la IP 187.208.138.69
+2026-06-06 03:02:18 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: juancarlos@staff.trantortechnologies.mx inicia sesión desde la IP 187.208.138.69
+2026-06-06 03:21:08 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez inicia sesión desde la IP 187.208.138.69
+2026-06-06 08:30:39 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez login from IP 187.208.138.69
+2026-06-06 08:48:11 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] 3: jperez editó la configuración de notificaciones de correos electrónicos
+2026-06-06 08:50:16 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] 3: jperez editó la configuración de notificaciones de correos electrónicos
+2026-06-06 09:37:03 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez login from IP 187.208.138.69
+2026-06-06 10:37:37 [8@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario gte.almacen
+2026-06-06 10:37:52 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario gte.almacen
+2026-06-06 10:37:59 [8@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario gte.almacen
+2026-06-06 10:38:27 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario gte.almacen
+2026-06-06 10:39:22 [11@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario lhernandez
+2026-06-06 10:39:51 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario lhernandez
+2026-06-06 19:06:46 [12@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario instalacionesmty
+2026-06-06 19:07:09 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario instalacionesmty
+2026-06-06 19:07:24 [11@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez inició la suplantación del usuario lhernandez
+2026-06-06 19:08:00 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[Impersonate] 3: jperez finalizó la suplantación del usuario lhernandez
+2026-06-06 20:58:57 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: Failed login for  from IP 187.208.138.69
+2026-06-06 20:59:05 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez login from IP 187.208.138.69
+2026-06-06 21:43:23 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: Failed login for  from IP 187.208.138.69
+2026-06-06 21:43:36 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez login from IP 187.208.138.69
+2026-06-07 00:58:44 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez login from IP 187.208.138.69
+2026-06-07 10:00:01 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: Inicio de sesión fallido para  desde la IP 187.208.138.69
+2026-06-07 10:00:14 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez inicia sesión desde la IP 187.208.138.69
+2026-06-08 01:17:12 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: juancarlos@staff.trantortechnologies.mx inicia sesión desde la IP 187.208.138.69
+2026-06-08 01:18:30 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: juancarlos@staff.trantortechnologies.mx inicia sesión desde la IP 187.208.138.69
+2026-06-12 06:12:01 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez inicia sesión desde la IP 187.208.138.69
+2026-06-26 08:02:02 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez login from IP 38.101.88.165
+2026-06-30 06:52:55 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[login] 3: jperez inicia sesión desde la IP 187.208.119.138
+2026-06-30 23:15:40 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] [Plugin 332] 3: El complemento Fields ha sido desactivado por Perez Salgado Juan Carlos (7).
+2026-06-30 23:15:43 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] [Plugin 333] 3: El complemento Campos adicionales ha sido instalado por Perez Salgado Juan Carlos (7).
+2026-06-30 23:15:46 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] [Plugin 334] 3: El complemento Campos adicionales ha sido activado por Perez Salgado Juan Carlos (7).
+2026-06-30 23:15:46 [@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] [Plugin 335] 3: Plugin fields version changed. It has been deactivated as its update process has to be launched.
+2026-06-30 23:15:50 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] [Plugin 336] 3: El complemento Additional fields ha sido instalado por Perez Salgado Juan Carlos (7).
+2026-06-30 23:15:51 [7@p3plmcpnl508595.prod.phx3.secureserver.net]
+[setup] [Plugin 337] 3: El complemento Additional fields ha sido activado por Perez Salgado Juan Carlos (7).
+2026-07-01 03:41:27 [@Carloss-Mac-mini.local]
+[login] 3: glpi inicia sesión desde la IP ::1
+2026-07-01 03:41:48 [@Carloss-Mac-mini.local]
+[login] 3: jperez inicia sesión desde la IP ::1
+2026-07-14 02:15:39 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP ::1
+2026-07-14 02:22:30 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP ::1
+2026-07-14 02:22:36 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 02:23:30 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 02:23:38 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 03:42:32 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 04:47:10 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 04:56:27 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 05:16:43 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 05:39:58 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 05:53:12 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 05:55:17 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 06:05:32 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 06:26:44 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 08:09:04 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 08:17:54 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 08:35:50 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 08:51:20 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 08:55:31 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 16:04:15 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 16:26:02 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-14 18:28:02 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-15 01:18:10 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-15 01:26:28 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-15 01:38:01 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-15 01:41:21 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-15 02:44:25 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-15 02:53:09 [@Carloss-Mac-mini.local]
+[login] 3: jazmin.hernandez@staff.trantortechnologies.mx inició sesión desde la dirección IP ::1
+2026-07-15 03:24:31 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-15 04:23:23 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-15 04:50:16 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-15 06:03:13 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-17 20:10:48 [@Carloss-Mac-mini.local]
+[login] 3: jperez inicia sesión desde la IP ::1
+2026-07-17 20:12:26 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-21 00:22:58 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-29 08:02:09 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-29 08:02:10 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-29 08:03:47 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-29 08:03:48 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-29 08:16:50 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-07-29 08:16:51 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-02 05:48:15 [@Carloss-Mac-mini.local]
+[login] 3: jcperezs inicia sesión desde la IP ::1
+2026-08-02 05:58:48 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-02 07:47:24 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-02 07:58:45 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-02 08:03:10 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-07 08:38:37 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-15 07:41:55 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-15 07:42:10 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-15 07:42:11 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-15 07:42:12 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-15 07:43:09 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-15 07:43:10 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-15 07:45:31 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-17 04:31:02 [@Carloss-Mac-mini.local]
+[login] 3: jcperezs inicia sesión desde la IP ::1
+2026-08-17 04:31:38 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-17 05:15:32 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-17 05:16:17 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-17 05:34:29 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-17 05:34:40 [@Carloss-Mac-mini.local]
+[login] 3:  inicia sesión desde la IP ::1
+2026-08-17 05:35:28 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-17 05:35:51 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-17 05:36:05 [@Carloss-Mac-mini.local]
+[login] 3: jcperezs inicia sesión desde la IP ::1
+2026-08-17 05:39:00 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 00:47:10 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 00:57:21 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:02:02 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:03:21 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:12:40 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:13:28 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:14:47 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:18:23 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:35:55 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:36:19 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:38:23 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:38:37 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:43:21 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:44:16 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 01:45:48 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:05:35 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:06:04 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:10:16 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:10:59 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:11:05 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:11:21 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:12:12 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:13:30 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:20:20 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:21:31 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:26:36 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:26:59 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:33:11 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:33:33 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 02:37:58 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 21:32:35 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 21:34:38 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 21:38:22 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 22:55:30 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 23:30:42 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-19 23:32:08 [@Carloss-Mac-mini.local]
+[login] 3: jperez inicia sesión desde la IP ::1
+2026-08-20 02:18:34 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-20 02:26:41 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-20 02:26:57 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-20 02:56:11 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-20 02:56:57 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-21 20:16:14 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-21 20:16:44 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-22 05:50:15 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-22 05:51:07 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-22 05:55:05 [29@Carloss-Mac-mini.local]
+[Impersonate] 3: jperez inició la suplantación del usuario gte.rh
+2026-08-22 05:57:55 [7@Carloss-Mac-mini.local]
+[Impersonate] 3: jperez finalizó la suplantación del usuario gte.rh
+2026-08-22 05:58:36 [28@Carloss-Mac-mini.local]
+[Impersonate] 3: jperez inició la suplantación del usuario sistemas
+2026-08-22 06:11:39 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-22 06:16:13 [7@Carloss-Mac-mini.local]
+[Impersonate] 3: jperez finalizó la suplantación del usuario sistemas
+2026-08-22 06:16:35 [29@Carloss-Mac-mini.local]
+[Impersonate] 3: jperez inició la suplantación del usuario gte.rh
+2026-08-22 06:21:00 [@Carloss-Mac-mini.local]
+[login] 3: martin.gutierrez@staff.trantortechnologies.mx inicia sesión desde la IP ::1
+2026-08-22 06:23:28 [@Carloss-Mac-mini.local]
+[login] 3: jperez inicia sesión desde la IP ::1
+2026-08-22 06:23:50 [29@Carloss-Mac-mini.local]
+[Impersonate] 3: jperez inició la suplantación del usuario gte.rh
+2026-08-22 06:25:01 [7@Carloss-Mac-mini.local]
+[Impersonate] 3: jperez finalizó la suplantación del usuario gte.rh
+2026-08-22 06:25:15 [28@Carloss-Mac-mini.local]
+[Impersonate] 3: jperez inició la suplantación del usuario sistemas
+2026-08-22 06:26:15 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-25 06:09:34 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-25 06:17:31 [7@Carloss-Mac-mini.local]
+[Impersonate] 3: jperez finalizó la suplantación del usuario sistemas
+2026-08-30 01:07:57 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-30 01:58:13 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-30 01:59:20 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-30 02:00:41 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-08-30 02:15:42 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-09-02 04:44:49 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-09-02 04:50:35 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-09-02 05:41:49 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-09-02 05:42:24 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-09-03 06:14:49 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1
+2026-09-03 06:17:23 [@Carloss-Mac-mini.local]
+[login] 3:  inició sesión desde la dirección IP 127.0.0.1

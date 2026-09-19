@@ -1,0 +1,168 @@
+[2026-07-15 06:03:13] glpi.WARNING:   *** Warning: Undefined array key 0 at API.php line 2118
+  Backtrace :
+  ./src/Glpi/Api/API.php:2118                        
+  ./src/Glpi/Api/APIRest.php:380                     Glpi\Api\API->updateItems()
+  ./src/Glpi/Controller/ApiRestController.php:59     Glpi\Api\APIRest->call()
+  ./vendor/symfony/http-kernel/HttpKernel.php:101    Glpi\Controller\ApiRestController->Glpi\Controller\{closure}()
+  ...ymfony/http-foundation/StreamedResponse.php:106 Symfony\Component\HttpKernel\HttpKernel::Symfony\Component\HttpKernel\{closure}()
+  ./vendor/symfony/http-foundation/Response.php:423  Symfony\Component\HttpFoundation\StreamedResponse->sendContent()
+  ./src/Glpi/Kernel/Kernel.php:295                   Symfony\Component\HttpFoundation\Response->send()
+  ./public/index.php:73                              Glpi\Kernel\Kernel->sendResponse()
+
+[2026-07-15 06:03:13] glpi.WARNING:   *** Warning: Trying to access array offset on null at API.php line 2118
+  Backtrace :
+  ./src/Glpi/Api/API.php:2118                        
+  ./src/Glpi/Api/APIRest.php:380                     Glpi\Api\API->updateItems()
+  ./src/Glpi/Controller/ApiRestController.php:59     Glpi\Api\APIRest->call()
+  ./vendor/symfony/http-kernel/HttpKernel.php:101    Glpi\Controller\ApiRestController->Glpi\Controller\{closure}()
+  ...ymfony/http-foundation/StreamedResponse.php:106 Symfony\Component\HttpKernel\HttpKernel::Symfony\Component\HttpKernel\{closure}()
+  ./vendor/symfony/http-foundation/Response.php:423  Symfony\Component\HttpFoundation\StreamedResponse->sendContent()
+  ./src/Glpi/Kernel/Kernel.php:295                   Symfony\Component\HttpFoundation\Response->send()
+  ./public/index.php:73                              Glpi\Kernel\Kernel->sendResponse()
+
+[2026-09-16 02:54:53] glpi.WARNING:   *** Warning: Undefined array key "itemtype" at webhook.php line 135
+  Backtrace :
+  ./ajax/webhook.php:135                             
+  ...Glpi/Controller/LegacyFileLoadController.php:64 require()
+  ./vendor/symfony/http-kernel/HttpKernel.php:181    Glpi\Controller\LegacyFileLoadController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+
+[2026-09-16 02:55:14] glpi.WARNING:   *** Warning: Undefined array key "itemtype" at webhook.php line 135
+  Backtrace :
+  ./ajax/webhook.php:135                             
+  ...Glpi/Controller/LegacyFileLoadController.php:64 require()
+  ./vendor/symfony/http-kernel/HttpKernel.php:181    Glpi\Controller\LegacyFileLoadController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+
+[2026-09-19 01:09:49] glpi.CRITICAL:   *** Uncaught PHP Exception RuntimeException: "MySQL query error: Table 'glpi_11_0819_1528.glpi_users' doesn't exist (1146) in SQL query "SELECT COUNT(*) AS count, `glpi_profiles`.`last_rights_update` FROM `glpi_users` LEFT JOIN `glpi_profiles_users` ON (`glpi_profiles_users`.`users_id` = `glpi_users`.`id`) LEFT JOIN `glpi_profiles` ON (`glpi_profiles_users`.`profiles_id` = `glpi_profiles`.`id`) WHERE `glpi_users`.`id` = '7' AND `glpi_users`.`is_active` = '1' AND `glpi_users`.`is_deleted` = '0' AND `glpi_profiles_users`.`profiles_id` = '4' AND ((`glpi_profiles_users`.`entities_id` = '0' OR (`glpi_profiles_users`.`is_recursive` = '1' AND `glpi_profiles_users`.`entities_id` IN ('0')))) GROUP BY `glpi_profiles`.`id`"." at DBmysql.php line 416
+  Backtrace :
+  ./src/DBmysql.php:416                              
+  ./src/DBmysqlIterator.php:129                      DBmysql->doQuery()
+  ./src/DBmysql.php:1088                             DBmysqlIterator->execute()
+  ./src/Session.php:1117                             DBmysql->request()
+  ./src/Session.php:1217                             Session::checkValidSessionId()
+  ./src/Glpi/Http/Firewall.php:144                   Session::checkLoginUser()
+  ...trollerListener/FirewallStrategyListener.php:82 Glpi\Http\Firewall->applyStrategy()
+  ...ymfony/event-dispatcher/EventDispatcher.php:260 Glpi\Kernel\Listener\ControllerListener\FirewallStrategyListener->onKernelController()
+  ...ymfony/event-dispatcher/EventDispatcher.php:220 Symfony\Component\EventDispatcher\EventDispatcher::Symfony\Component\EventDispatcher\{closure}()
+  ...symfony/event-dispatcher/EventDispatcher.php:56 Symfony\Component\EventDispatcher\EventDispatcher->callListeners()
+  ./vendor/symfony/http-kernel/HttpKernel.php:169    Symfony\Component\EventDispatcher\EventDispatcher->dispatch()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+
+[2026-09-19 01:09:50] glpi.CRITICAL:   *** Exception thrown when handling an exception (Twig\Error\RuntimeError: An exception has been thrown during the rendering of a template ("MySQL query error: Table 'glpi_11_0819_1528.glpi_users' doesn't exist (1146) in SQL query "SHOW COLUMNS FROM `glpi_users`".") in "error_page.html.twig" at line 33. at error_page.html.twig line 33)
+  Backtrace :
+  ./templates/error_page.html.twig:33                
+  ./vendor/twig/twig/src/Template.php:358            Twig\Template->yield()
+  ./vendor/twig/twig/src/Template.php:373            Twig\Template->display()
+  ./vendor/twig/twig/src/TemplateWrapper.php:51      Twig\Template->render()
+  .../Glpi/Application/View/TemplateRenderer.php:170 Twig\TemplateWrapper->render()
+  ./src/Glpi/Controller/AbstractController.php:68    Glpi\Application\View\TemplateRenderer->render()
+  ./src/Glpi/Controller/ErrorController.php:177      Glpi\Controller\AbstractController->render()
+  ./vendor/symfony/http-kernel/HttpKernel.php:181    Glpi\Controller\ErrorController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ...http-kernel/EventListener/ErrorListener.php:117 Symfony\Component\HttpKernel\HttpKernel->handle()
+  ...ymfony/event-dispatcher/EventDispatcher.php:260 Symfony\Component\HttpKernel\EventListener\ErrorListener->onKernelException()
+  ...ymfony/event-dispatcher/EventDispatcher.php:220 Symfony\Component\EventDispatcher\EventDispatcher::Symfony\Component\EventDispatcher\{closure}()
+  ...symfony/event-dispatcher/EventDispatcher.php:56 Symfony\Component\EventDispatcher\EventDispatcher->callListeners()
+  ./vendor/symfony/http-kernel/HttpKernel.php:239    Symfony\Component\EventDispatcher\EventDispatcher->dispatch()
+  ./vendor/symfony/http-kernel/HttpKernel.php:91     Symfony\Component\HttpKernel\HttpKernel->handleThrowable()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+  Previous: MySQL query error: Table 'glpi_11_0819_1528.glpi_users' doesn't exist (1146) in SQL query "SHOW COLUMNS FROM `glpi_users`".
+  ./src/DBmysql.php:416                              
+  ./src/DBmysql.php:942                              DBmysql->doQuery()
+  ./src/CommonDBTM.php:667                           DBmysql->listFields()
+  ./src/CommonDBTM.php:3317                          CommonDBTM->getEmpty()
+  ./src/CommonGLPI.php:467                           CommonDBTM->maybeTemplate()
+  ./src/Html.php:1405                                CommonGLPI::getMenuContent()
+  ./src/Html.php:1646                                Html::generateMenuSession()
+  :                                                  Html::header()
+  ...Application/View/Extension/PhpExtension.php:105 call_user_func_array()
+  ...ates/92/92609e743f9150ee21dc8c356dcbee4c.php:45 Glpi\Application\View\Extension\PhpExtension->call()
+  ./vendor/twig/twig/src/Template.php:402            __TwigTemplate_f986c2bc8d515bf49aa4fbf5c3a6a867->doDisplay()
+  ./vendor/twig/twig/src/Template.php:358            Twig\Template->yield()
+  ./vendor/twig/twig/src/Template.php:373            Twig\Template->display()
+  ./vendor/twig/twig/src/TemplateWrapper.php:51      Twig\Template->render()
+  .../Glpi/Application/View/TemplateRenderer.php:170 Twig\TemplateWrapper->render()
+  ./src/Glpi/Controller/AbstractController.php:68    Glpi\Application\View\TemplateRenderer->render()
+  ./src/Glpi/Controller/ErrorController.php:177      Glpi\Controller\AbstractController->render()
+  ./vendor/symfony/http-kernel/HttpKernel.php:181    Glpi\Controller\ErrorController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ...http-kernel/EventListener/ErrorListener.php:117 Symfony\Component\HttpKernel\HttpKernel->handle()
+  ...ymfony/event-dispatcher/EventDispatcher.php:260 Symfony\Component\HttpKernel\EventListener\ErrorListener->onKernelException()
+  ...ymfony/event-dispatcher/EventDispatcher.php:220 Symfony\Component\EventDispatcher\EventDispatcher::Symfony\Component\EventDispatcher\{closure}()
+  ...symfony/event-dispatcher/EventDispatcher.php:56 Symfony\Component\EventDispatcher\EventDispatcher->callListeners()
+  ./vendor/symfony/http-kernel/HttpKernel.php:239    Symfony\Component\EventDispatcher\EventDispatcher->dispatch()
+  ./vendor/symfony/http-kernel/HttpKernel.php:91     Symfony\Component\HttpKernel\HttpKernel->handleThrowable()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+
+[2026-09-19 01:09:50] glpi.CRITICAL:   *** Uncaught PHP Exception Twig\Error\RuntimeError: "An exception has been thrown during the rendering of a template ("MySQL query error: Table 'glpi_11_0819_1528.glpi_users' doesn't exist (1146) in SQL query "SHOW COLUMNS FROM `glpi_users`".") in "error_page.html.twig" at line 33." at error_page.html.twig line 33
+  Backtrace :
+  ./templates/error_page.html.twig:33                
+  ./vendor/twig/twig/src/Template.php:358            Twig\Template->yield()
+  ./vendor/twig/twig/src/Template.php:373            Twig\Template->display()
+  ./vendor/twig/twig/src/TemplateWrapper.php:51      Twig\Template->render()
+  .../Glpi/Application/View/TemplateRenderer.php:170 Twig\TemplateWrapper->render()
+  ./src/Glpi/Controller/AbstractController.php:68    Glpi\Application\View\TemplateRenderer->render()
+  ./src/Glpi/Controller/ErrorController.php:177      Glpi\Controller\AbstractController->render()
+  ./vendor/symfony/http-kernel/HttpKernel.php:181    Glpi\Controller\ErrorController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ...http-kernel/EventListener/ErrorListener.php:117 Symfony\Component\HttpKernel\HttpKernel->handle()
+  ...ymfony/event-dispatcher/EventDispatcher.php:260 Symfony\Component\HttpKernel\EventListener\ErrorListener->onKernelException()
+  ...ymfony/event-dispatcher/EventDispatcher.php:220 Symfony\Component\EventDispatcher\EventDispatcher::Symfony\Component\EventDispatcher\{closure}()
+  ...symfony/event-dispatcher/EventDispatcher.php:56 Symfony\Component\EventDispatcher\EventDispatcher->callListeners()
+  ./vendor/symfony/http-kernel/HttpKernel.php:239    Symfony\Component\EventDispatcher\EventDispatcher->dispatch()
+  ./vendor/symfony/http-kernel/HttpKernel.php:91     Symfony\Component\HttpKernel\HttpKernel->handleThrowable()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+  Previous: MySQL query error: Table 'glpi_11_0819_1528.glpi_users' doesn't exist (1146) in SQL query "SHOW COLUMNS FROM `glpi_users`".
+  ./src/DBmysql.php:416                              
+  ./src/DBmysql.php:942                              DBmysql->doQuery()
+  ./src/CommonDBTM.php:667                           DBmysql->listFields()
+  ./src/CommonDBTM.php:3317                          CommonDBTM->getEmpty()
+  ./src/CommonGLPI.php:467                           CommonDBTM->maybeTemplate()
+  ./src/Html.php:1405                                CommonGLPI::getMenuContent()
+  ./src/Html.php:1646                                Html::generateMenuSession()
+  :                                                  Html::header()
+  ...Application/View/Extension/PhpExtension.php:105 call_user_func_array()
+  ...ates/92/92609e743f9150ee21dc8c356dcbee4c.php:45 Glpi\Application\View\Extension\PhpExtension->call()
+  ./vendor/twig/twig/src/Template.php:402            __TwigTemplate_f986c2bc8d515bf49aa4fbf5c3a6a867->doDisplay()
+  ./vendor/twig/twig/src/Template.php:358            Twig\Template->yield()
+  ./vendor/twig/twig/src/Template.php:373            Twig\Template->display()
+  ./vendor/twig/twig/src/TemplateWrapper.php:51      Twig\Template->render()
+  .../Glpi/Application/View/TemplateRenderer.php:170 Twig\TemplateWrapper->render()
+  ./src/Glpi/Controller/AbstractController.php:68    Glpi\Application\View\TemplateRenderer->render()
+  ./src/Glpi/Controller/ErrorController.php:177      Glpi\Controller\AbstractController->render()
+  ./vendor/symfony/http-kernel/HttpKernel.php:181    Glpi\Controller\ErrorController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ...http-kernel/EventListener/ErrorListener.php:117 Symfony\Component\HttpKernel\HttpKernel->handle()
+  ...ymfony/event-dispatcher/EventDispatcher.php:260 Symfony\Component\HttpKernel\EventListener\ErrorListener->onKernelException()
+  ...ymfony/event-dispatcher/EventDispatcher.php:220 Symfony\Component\EventDispatcher\EventDispatcher::Symfony\Component\EventDispatcher\{closure}()
+  ...symfony/event-dispatcher/EventDispatcher.php:56 Symfony\Component\EventDispatcher\EventDispatcher->callListeners()
+  ./vendor/symfony/http-kernel/HttpKernel.php:239    Symfony\Component\EventDispatcher\EventDispatcher->dispatch()
+  ./vendor/symfony/http-kernel/HttpKernel.php:91     Symfony\Component\HttpKernel\HttpKernel->handleThrowable()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+  Previous: MySQL query error: Table 'glpi_11_0819_1528.glpi_users' doesn't exist (1146) in SQL query "SELECT COUNT(*) AS count, `glpi_profiles`.`last_rights_update` FROM `glpi_users` LEFT JOIN `glpi_profiles_users` ON (`glpi_profiles_users`.`users_id` = `glpi_users`.`id`) LEFT JOIN `glpi_profiles` ON (`glpi_profiles_users`.`profiles_id` = `glpi_profiles`.`id`) WHERE `glpi_users`.`id` = '7' AND `glpi_users`.`is_active` = '1' AND `glpi_users`.`is_deleted` = '0' AND `glpi_profiles_users`.`profiles_id` = '4' AND ((`glpi_profiles_users`.`entities_id` = '0' OR (`glpi_profiles_users`.`is_recursive` = '1' AND `glpi_profiles_users`.`entities_id` IN ('0')))) GROUP BY `glpi_profiles`.`id`".
+  ./src/DBmysql.php:416                              
+  ./src/DBmysqlIterator.php:129                      DBmysql->doQuery()
+  ./src/DBmysql.php:1088                             DBmysqlIterator->execute()
+  ./src/Session.php:1117                             DBmysql->request()
+  ./src/Session.php:1217                             Session::checkValidSessionId()
+  ./src/Glpi/Http/Firewall.php:144                   Session::checkLoginUser()
+  ...trollerListener/FirewallStrategyListener.php:82 Glpi\Http\Firewall->applyStrategy()
+  ...ymfony/event-dispatcher/EventDispatcher.php:260 Glpi\Kernel\Listener\ControllerListener\FirewallStrategyListener->onKernelController()
+  ...ymfony/event-dispatcher/EventDispatcher.php:220 Symfony\Component\EventDispatcher\EventDispatcher::Symfony\Component\EventDispatcher\{closure}()
+  ...symfony/event-dispatcher/EventDispatcher.php:56 Symfony\Component\EventDispatcher\EventDispatcher->callListeners()
+  ./vendor/symfony/http-kernel/HttpKernel.php:169    Symfony\Component\EventDispatcher\EventDispatcher->dispatch()
+  ./vendor/symfony/http-kernel/HttpKernel.php:76     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:208        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./public/index.php:71                              Symfony\Component\HttpKernel\Kernel->handle()
+
