@@ -1,0 +1,9 @@
+.DS_Store
+files/_cache/
+files/_sessions/
+files/_tmp/
+files/_log/
+files/_uploads/
+config/glpicrypt.key
+config/oauth.pem
+config/oauth.pub
